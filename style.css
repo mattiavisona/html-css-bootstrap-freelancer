@@ -6,3 +6,13 @@
     color: white;
     background-color: #1abc9c;
 }
+
+
+.bg-button{
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
